@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.site-heading-lower{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mb-3{
+    font-family: 'Courier New', Courier, monospace;
+}
+#mainNav{
+    background-color: rgba(0, 0, 0, 0.728);
+}
